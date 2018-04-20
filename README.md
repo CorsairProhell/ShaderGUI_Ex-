@@ -3,4 +3,4 @@
 ![Image text](https://raw.githubusercontent.com/CorsairProhell/ShaderGUI_Ex-/master/ShaderGUI_Ex.gif)
 
 V0.2版本新增
-![Image text](https://raw.githubusercontent.com/CorsairProhell/ShaderGUI_Ex-/master/V0.2/V0.2.png）
+![Image text](https://raw.githubusercontent.com/CorsairProhell/ShaderGUI_Ex-/master/V0.2/V0.2.png)
